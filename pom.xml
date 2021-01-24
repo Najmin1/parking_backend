@@ -86,7 +86,7 @@
     </snapshotRepository>
     <repository>
 <id>nexus</id>
-<url>35.198.220.235:8082/repository/maven-releases</url>
+<url>https://35.198.220.235:8082/repository/maven-releases</url>
     </repository>
 	</distributionManagement>
 	
